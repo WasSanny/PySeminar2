@@ -14,3 +14,14 @@ while (s <= n):
   s += 1
 
 print(result)
+
+# Второй вариант задачи на факториал
+
+# number = tempNumber= int(input("Введите n : "))
+# factorialNumber = 1
+
+# while (tempNumber != 1):
+#   factorialNumber *= tempNumber
+#   tempNumber -= 1
+
+# print(f"факториал {number} = {factorialNumber}")
